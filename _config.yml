@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Want to contact us?, use this email, no emil for now, replies to your email might take anywhere from 1 day to 1 month depending on when we next check our emails
+contact_description: Want to contact us? prism182.github@outlook.com
 
 # GITHUB-METADATA
 # Set this to your forked repository
