@@ -16,7 +16,7 @@ username: Refraction Studios
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Multi-Language Developers
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: prism.github@outlook.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -32,9 +32,9 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: Made by Prism182, refraction studios has been inspired to make, develop and code multiple diffrent projects, all our public projects are available on our <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>, we have made things like mods for minecraft, Discord Bot applications for our server and other projects too, we hope to become great devs and we hope to be backed by a great community someday
+about_me_description: Made by Prism182, refraction studios has been inspired to make, develop and code multiple diffrent projects, all our public projects are available on our <a class="highlight-link" href="https://github.com/refraction-studios" target="_blank" rel="noreferrer"> Github </a>, we have made things like mods for minecraft, Discord Bot applications for our server and other projects too, we hope to become great devs and we hope to be backed by a great community someday
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -78,9 +78,9 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contact us
 # contact_description: This will be displayed under the title.
-contact_description: Want to contact us?, use this email, no emil for now, replies to your email might take anywhere from 1 day to 1 month depending on when we next check our emails
+contact_description: Want to contact us? click the buttons below
 
 # GITHUB-METADATA
 # Set this to your forked repository
