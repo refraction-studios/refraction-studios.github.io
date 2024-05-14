@@ -1,4 +1,4 @@
-The Code for the website of Refractive Studios
+The Code for the website of Refraction Studios
 
 <!-- LICENSE -->
 
